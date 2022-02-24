@@ -1,7 +1,9 @@
 ﻿body {
 	font-size: 11pt;
 	margin: 0px;
-	padding: 0px;
+	padding: 0px;	background-image: url(bg.png);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: black;
 }
 
 p{
@@ -23,6 +25,10 @@ h2 {
 #tartalom {
 	margin: 0 auto 0 auto;
 	text-align: left;
+	width: 850px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: white;
 	
 }
 
@@ -38,6 +44,6 @@ h2 {
 }
 
 a:link {
-
+	color:#008080;
 }
 
