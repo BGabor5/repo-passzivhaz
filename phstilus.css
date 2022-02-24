@@ -7,7 +7,7 @@
 }
 
 p{
-	
+	text-align: justify;
 }
 
 hr {
@@ -44,7 +44,8 @@ h2 {
 	border: 1px black solid;
 }
 
-a:link {
+a:link, a:active, a:hover, a:visited {
 	color:#008080;
+	text-decoration: underline;
 }
 
